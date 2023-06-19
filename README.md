@@ -6,3 +6,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenationonemind1&langs_count=8)](https://github.com/깃허브아이디/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onenationonemind1&show_icons=true&theme=radical)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
