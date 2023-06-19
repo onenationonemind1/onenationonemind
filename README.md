@@ -2,10 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=Wellcome%20to%20My%20Github&fontSize=40)
 <div align=center>
 
-<div font-weight:bold>
+<div font-weight: bold>
 😀Introduction
  </div>
-<div font-weight:300>
+<div font-weight: 300>
  Hi! I have been actively studying and engaging in various projects and practical applications.
 </div>
 
