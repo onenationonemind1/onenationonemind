@@ -1,4 +1,5 @@
 # onenationonemind
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=Wellcome%20to%20My%20Github&fontSize=40)
 
 
@@ -11,3 +12,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onenationonemind1&show_icons=true&theme=radical)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+</div>
