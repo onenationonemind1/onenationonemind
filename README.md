@@ -1,5 +1,5 @@
 # onenationonemind
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello%20MyNameIsChangHoon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello%20MyNameIsChangHoon&fontSize=40)
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20)
 
 
