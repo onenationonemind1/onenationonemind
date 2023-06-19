@@ -1,6 +1,5 @@
 # onenationonemind
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Wellcome%20to%20My%20Github&fontSize=40)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=Wellcome%20to%20My%20Github&fontSize=40)
 
 
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-512BD4?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-0094F5?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C-004088?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/React-B7178C?style=flat&logo=React&logoColor=white"/>
